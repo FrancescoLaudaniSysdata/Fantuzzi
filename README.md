@@ -25,4 +25,4 @@ Si richiede l'utilizzo di TDD.
 
 
 
-Oltre alla qualità del codice e all'uso oculato di design pattern, verrà valutato anche il corretto uso dello strumento di versionamento (commit frequenti, feature 
+Oltre alla qualità del codice e all'uso oculato di design pattern, verrà valutato anche il corretto uso dello strumento di versionamento (commit frequenti, feature branch ...)
